@@ -28,5 +28,6 @@ public abstract class Movie
 	{
 		return title;
 	}	
+	public abstract double getCharge(int daysRented);
 	
 }
