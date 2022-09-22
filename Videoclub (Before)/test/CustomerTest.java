@@ -1,4 +1,5 @@
 import junit.framework.TestCase;
+import movie.Movie;
 
 public class CustomerTest extends TestCase 
 {
