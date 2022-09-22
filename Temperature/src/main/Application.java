@@ -3,7 +3,7 @@ import temperatures.Temperature;
 public class Application 
 {
 	//This is supposed to be client code, we should change as little as possible
-	// Extracting these operations is an estructural enhancement, not a design enhancement
+	// Extracting these operations is an structural enhancement, not a design enhancement
 	public static void main(String[] args) 
 	{
 		Temperature[] temperaturas = new Temperature[100];
